@@ -1,0 +1,31 @@
+.welcomeheader{
+border-style: double;
+border-color:#655C5C;
+border-width: 1px;
+width: 970px;
+height: 100px;
+background-image: url(../images/gradient.png);
+border-style:none none none none;
+}
+.navcontainer{
+border-style: double;
+border-color:#655C5C;
+border-width: 1px;
+width: 970px;
+height: 30px;
+border-style:none none none none;
+}
+#navlist li
+{
+display: inline;
+list-style-type: none;
+padding-right: 20px;
+}
+.blockDifference1{
+border-style: double;
+border-color:#655C5C;
+border-width: 1px;
+width: 970px;
+height: 15px;
+border-style:none none none none;
+}

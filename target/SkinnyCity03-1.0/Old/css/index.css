@@ -1,0 +1,45 @@
+.blockTopSpace{
+border-style: double;
+border-color:#655C5C;
+border-width: 1px;
+width:  970px;
+height: 50px;
+border-style:none none none none;
+}
+.blockWelcomeImage{
+border-style: double;
+border-color:#655C5C;
+border-width: 1px;
+float: left;
+width:  485px;
+height: 400px;
+border-style:none none none none;
+}
+.blockRegister{
+border-style: double;
+border-color:#655C5C;
+border-width: 1px;
+margin-left: 485px;
+width:  485px;
+height: 400px;
+border-style:none none none none;
+}
+.blockBottomSpace{
+border-style: double;
+border-color:#655C5C;
+border-width: 1px;
+width:  970px;
+height: 15px;
+border-style:none none none none;
+}
+.SignUpHeading{
+   font-size: 125%;
+}
+.termsandconditionstext{
+    color: grey;
+    font-size: 10pt;
+}
+.hiddentext{
+    color: white;
+    display:none;
+}

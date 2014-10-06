@@ -1,0 +1,36 @@
+
+.challenge { 
+   background-color: #f0d199; 
+   border-radius: 1em; 
+}
+.recent {
+   background-color: #fff3e4;
+   border-radius: 1em;
+   height: 100%; 
+}
+
+.rulesAndHistory {
+   background-color: #ffebcf;
+   border-radius: 1em; 
+   margin-left: 1em;
+   margin-right: 1em;
+   margin-bottom: 1em;
+}
+.rules { background-color: #ffebcf; }
+.history { background-color: #ffebcf; }
+
+.main { }
+.board {  }
+
+.footer {
+}
+
+
+.ascii {
+  border-color: white;
+  background-color: white;
+}
+
+.badge {
+  background-color: #d9534f;
+}
