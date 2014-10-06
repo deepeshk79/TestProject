@@ -1,0 +1,154 @@
+/*
+div { border: 1px solid red !important; }
+img { border: 1px solid blue !important;}
+*/
+
+body {
+   border-radius: 0;
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-size: medium;
+}
+
+.panel-title {
+   font-size: 1.4em;
+}
+
+.panel-heading {
+   padding-top: 0.5em;   
+   padding-bottom: 0.2em;
+}
+.panel-body {
+   padding-top: 0.2em;
+   padding-bottom: 0.4em;
+}
+.panel-footer {
+   border-top: none;
+   background-color: inherit;
+}
+
+
+
+.banner {
+   margin-bottom: 0.9em;
+   padding-right: 74px;
+}
+
+.banner img {
+   width: 100%;
+   padding: 0px;
+   margin: 0px;
+}
+
+.challenge {
+   background-color: #ffffff;
+   border: thick solid #FBC276;
+   
+   margin-left: 0em;
+   margin-bottom: 1em;
+   color: #445772;
+}
+
+.successButton {
+   padding: 0 1em 0 1em;
+   color: #FBC276;
+   background-color: #2EA560;
+   font-size: 1.3em;
+   min-width: 7em;
+   border-radius: 0.2em;
+   display:block;
+   margin-left: auto;
+   margin-right: auto;   
+}
+
+.skipButton {
+   padding: 0.2em 1em 0 1em;
+   color: #FBC276;
+   background-color: #2EA560;
+   font-size: 1em;
+   border-radius: 0.2em;
+   display: inline-block;
+}
+
+
+.recent {
+   background-color: #445672;
+   height: 100%; 
+   color: #FBC276;
+}
+
+.commentButton {   
+   font-weight: bold;
+   padding: 0 1em 0 1em;
+   color: #2EA560;
+   background-color: #FBC276;
+   font-size: 1.3em;
+   min-width: 7em;
+   border-radius: 0.2em;
+   display:block;
+   margin-left: auto;
+   margin-right: auto;   
+}
+
+
+.rulesAndHistory {
+   background-color: #ffffff;
+   border: thick solid #2EA560;
+   
+   margin-left: 0em;
+   margin-right: 1em;
+   margin-bottom: 1em;
+   color: #445772;
+}
+
+.rulesAndHistory .panel {
+   margin-bottom: 0px;   
+}
+.rules { }
+.history { }
+
+.main {
+   margin-top: 0em;
+   margin-bottom: 2em;
+}
+
+.fatfarmBoard {
+    padding-left: 0em;
+    padding-right: 0em;
+}
+
+.fatfarm {padding: 0px;}
+.fatfarm { float: left;}
+.board { padding: 0px;}
+.board { float: left;}
+
+.travelers { padding: 0em;} 
+
+.green { color: #2EA560;}
+
+.footer {
+   
+}
+
+/* unvisited link */
+a:link {
+    color: #2EA560;
+}
+
+/* visited link */
+a:visited {
+    color: #2EA560;
+}
+
+/* mouse over link */
+a:hover {
+    color: #445672;
+}
+
+/* selected link */
+a:active {
+    color: #445672;
+}
+
+.badge {
+  background-color: #f06044;
+}
