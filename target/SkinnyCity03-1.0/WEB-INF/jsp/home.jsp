@@ -191,7 +191,7 @@
                                             </p>
                                         </div>
                                     </div>
-                                    <!--end-->
+                                    <!--end of Comments-->
                                 </div>
                             </div>
                         </div>
